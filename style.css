@@ -6,14 +6,18 @@
   box-sizing: border-box;
   margin: 0;
   padding: 0;
-  overflow-x: hidden;
+  
 
 }
 
 html {
   font-size: 10px;
+ 
 }
 
+body{
+  overflow-x: hidden;
+}
 
 /* navigation */
 
